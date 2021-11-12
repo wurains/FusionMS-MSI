@@ -1,0 +1,3 @@
+rootProject.name = 'FusionMS-MSI'
+include 'FusionMS-MSI-001'
+

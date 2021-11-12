@@ -1,0 +1,19 @@
+server:
+  port: 8081
+
+testData:
+  data1: yes!
+  data2: David
+  MyConfig:
+    data1: yes!
+    data2: David
+
+person:
+  lastName: 张三
+  age: 18
+  mail: zhansan@mail.com
+
+logging:
+  level:
+    com:
+      example: trace
